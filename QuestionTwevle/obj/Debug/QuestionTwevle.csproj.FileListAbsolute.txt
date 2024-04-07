@@ -1,0 +1,6 @@
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionTwevle\QuestionTwevle\bin\Debug\QuestionTwevle.exe.config
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionTwevle\QuestionTwevle\bin\Debug\QuestionTwevle.exe
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionTwevle\QuestionTwevle\bin\Debug\QuestionTwevle.pdb
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionTwevle\QuestionTwevle\obj\Debug\QuestionTwevle.csprojResolveAssemblyReference.cache
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionTwevle\QuestionTwevle\obj\Debug\QuestionTwevle.exe
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionTwevle\QuestionTwevle\obj\Debug\QuestionTwevle.pdb
